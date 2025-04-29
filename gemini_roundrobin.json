@@ -1,0 +1,8 @@
+{
+  "name": "Gemini RoundRobin",
+  "version": "1.0.0",
+  "author": "Ursa",
+  "description": "轮询多个 Gemini API 的 SillyTavern 扩展",
+  "entryPoint": "gemini_roundrobin.js",
+  "pluginType": "custom"
+}
