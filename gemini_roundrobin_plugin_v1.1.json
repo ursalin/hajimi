@@ -1,0 +1,18 @@
+{
+  "name": "Gemini轮询器（带失效跳过）",
+  "author": "Ursa定制",
+  "version": "1.1",
+  "description": "轮询使用多个Gemini API Key进行对话，失效或超限时自动跳过。",
+  "entry": "gemini_roundrobin.js",
+  "settings": {
+    "api_keys": [
+      "AIzaSyD72_V50Myd6XcE2xmIBcckznvhhD8igpE",
+      "AIzaSyCxZ-YzoZO1aMJhcd81LP2yxjvB3udo_hM",
+      "AIzaSyDGpceOwNXKTuEBhHEgG-fHeFlgZG1nYR4",
+      "AIzaSyAphKoTSArvGp2W9XnIQXRdHkcNywECAUc",
+      "AIzaSyAkK7dJqREc-W5qihk47Djxj8DRrmjMRWs",
+      "AIzaSyCFye-EG09p2muIc9wNbqYCK52293MpTLk"
+    ],
+    "model": "gemini-pro"
+  }
+}
